@@ -1,7 +1,7 @@
 # 🏨 HOTEL BOOKING WEBSITE
 
 <p align="center">
-  <img src="https://github.com/anamika89720/MAJORPROJECT/blob/main/Output/dashboard.jpg" alt="Dashboard Screenshot" width="80%">
+  <img src="https://github.com/anamika89720/MAJORPROJECT/blob/main/Ouput/DashBoard.jpg" alt="Dashboard Screenshot" width="80%">
 </p>
 
 The **Hotel Booking Website** provides a seamless platform for users to explore hotels, make bookings, and manage reservations.  
