@@ -7,6 +7,7 @@
 The **Hotel Booking Website** provides a seamless platform for users to explore hotels, make bookings, and manage reservations.  
 The **Dashboard** gives a clear overview of available rooms, booking statuses, and customer activity in real-time.  
 Admins can efficiently manage hotel listings and users can track their reservations effortlessly.
+
 ## 🔐 Login Page
 <p align="center">
   <img src="https://github.com/anamika89720/MAJORPROJECT/blob/main/Ouput/Login.jpg" alt="Login Screenshot" width="80%">
@@ -15,6 +16,7 @@ Admins can efficiently manage hotel listings and users can track their reservati
 Users can securely log in with their registered credentials to access specific features. Only authorized users—such as hotel
 owners adding listings or guests updating experiences—can perform actions. Invalid usernames or passwords prevent access, 
 ensuring secure and controlled functionality.
+
 ## 📝 Review & Location Feature
 <p align="center">
   <img src="https://github.com/anamika89720/MAJORPROJECT/blob/main/Ouput/Review.jpg" alt="Review Screenshot" width="80%">
